@@ -1,0 +1,16 @@
+{"Database": {
+   "host": "serweradres",
+   "port": 1,
+   "user":  "user",
+   "password": "pas",
+   "db": "dbname"
+ },
+   "Mail": {
+      "server_smtp": "smtp",
+      "sender": "sender",
+      "login": "login",
+      "password": "pas"
+   }
+}
+
+
